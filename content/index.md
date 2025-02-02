@@ -1,5 +1,5 @@
 ---
-title: Hey, Gaurav here.
+title: Hey, Gaurav here!!
 ---
 #### Welcome to my site: a concoction of ideas, thoughts and boring boring writing.
 
@@ -14,7 +14,11 @@ It dawned upon me very slow and way late the importance of writing; I realized t
 
 ## About me
 
-Well, everything(shakes head:horizontal) here is about me hehe. I believe that the persona of any individual cannot be simply summarized into such bland topic as "about me". The prolonging of topic such as this depicts narcissism and feeds the one thing that is beneficial only when kept in control--human ego. The depth of characteristics of a person lies not in fancy topics  but in profundity in their words. And words are all I have to offer here. So, feel free to discover and derive.
+Well, everything(shakes head:horizontal) here is about me hehe. I believe that the persona of any individual cannot be simply summarized into such bland topic as "about me". The prolonging of topic such as this depicts narcissism and feeds the one thing that is beneficial only when kept in control--human ego. The depth of characteristics of a person lies not in fancy topics but in profundity in their words. And words are all I have to offer here. So, feel free to discover and derive.
 
 > "Clarity of direction matters as much as the consistency and focus you invest daily. And writing is the best tool to correct your aim."
 
+
+- [Instagram](https://www.instagram.com/gaurav.khd/)
+- [Facebook](https://www.facebook.com/gaurav.khadka.58/)
+- [LinkedIn](https://www.linkedin.com/in/gauravkhadka/)
