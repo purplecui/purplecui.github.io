@@ -1,0 +1,12 @@
+---
+title: It wasn't Me
+draft: false
+tags:
+---
+ 
+Heard a clip of "[it wasn't me](https://youtu.be/2g5Hz17C4is?si=ykgF0UKBKG_Oe17l)" on Instagram titled to someone's story and checked the song.  The song was really good, bordering around conviction and connections. Judgement that is about to be passed and like a certain orange dud, just deny-it wasn't me. Then my eyes fell upon "[The Story of 'It Wasn’t Me' by Shaggy](https://youtu.be/qNqgWvHa3LQ?si=n1QV7YmNj-BEoVd2)", a video by VICE on how the great hit that almost didn't happened if not for coincidences of minute actions of few people. Its weird how some things just can't be covered up. Shaggy and his fellow mates had created something so good, the world couldn't cover it up and the label had to chase. It is invigorating to know how small choices, small decisions, small sparks of will can sometime result in something great and unstoppable that even the creators wouldn't have been able to fathom. It is hard to predict and especially hard to foresee future, even when you are a pioneer of the field and read in between the lines of the trend in that domain explicitly. 
+
+That's what makes life blissful and ideas and hope rejuvenate. Something left to chance, some to luck and some even to acceptance of failure, but the important lesson is to finish the thing you want to even if at the time you yourself find it hard to believe in it. Hard to see beyond the tunnel-vision angles that has been taught upon you or forced onto by cradle on which you begun to perceive the world. See yourself as belonging to a contours of this wide complex net of everything that represents you, every thoughts you have, every thoughts you will have; all of you in life limited to that contours. This contour not being small but as something of limit even in your infinite possibility(this being your life being limited even though it has unlimited potential and possibilities but the final sum being finite). And the beauty resides in an endpoint, a hanging arm of graph of another's contours and such many arms/endpoint of many different people just someday somehow reaching into your hanging arms of your contours and the magic happens. 
+
+Everything falls into place and something you didn't know could happen to make your contours more stable, more meaningful more dynamic. That is how life is for everyone. The hanging endpoints just connect and people meet people, happenings expand and shrink and the is the eternal beauty of our existence. 
+

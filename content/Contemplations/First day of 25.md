@@ -1,0 +1,9 @@
+---
+title: First day of 25
+draft: false
+tags:
+---
+Today marks 24 years of my earth days. I am committing to few onward including vegetarianism for as much time as i can. i believe i can keep it up for a long time. another is journal every weird and out of norm thoughts and feelings the moment i have them, no matter the work i am engaged in; well, unless i can't afford to distract from really important stuff. and i look forward to if i get engaged in such stuff as it would be an interesting norm. And final one is committing relentlessly in self improvement; a bunch of time on programming, others on building knowledge circle on things of interests. 
+
+I was thinking of writing for a long time; poorly the only things i wrote about are in thoughts which i have long forgotten. It dawned upon me the meaning of writing about what i think and contemplate due to the notion that as i move through life; with age, grace and many new perception of things i reach to different conclusions about similar things as time goes by. It may be the result of amalgamation of all the things i know and as i keep increasing my knowledge base as i move through life i have learned to view things in many different angles. The great the circle of known, greater the circle of known. And i find it my duty in life to accumulate much knowledge and keep on expanding the circle until my last days on martya(मर्त्य){refers to "world of mortals" in sanskrit; learned this word via swasthani recitals}. My stand on this eternal appetite for knowledge lied not on proving what i know or for the sake of defending my points on arguments but rather knowledge building is something that fascinates me. It amazes my curiosity on angles other people think of and their views on things that are common and rare, abstract or tangible, it just excites me to know many different perspectives. I find it always rejuvenating talking to new people.
+
