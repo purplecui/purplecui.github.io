@@ -8,3 +8,6 @@ See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
 
 default setup of quartz.
+
+
+[[Contemplations]]
