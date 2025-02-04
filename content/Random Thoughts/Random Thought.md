@@ -1,5 +1,5 @@
 ---
-title: "Random Thoughts #1"
+title: "Random Thought #1"
 draft: false
 tags:
 ---

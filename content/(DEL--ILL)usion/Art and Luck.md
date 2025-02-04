@@ -1,5 +1,5 @@
 ---
-title: 15 seconds of attention span
+title: Art and Luck
 draft: false
 tags:
   - fiction
