@@ -24,6 +24,7 @@ Well, everything(shakes head:horizontal) here is about me hehe. I believe that t
 - [Facebook](https://www.facebook.com/gaurav.khadka.58/)
 - [LinkedIn](https://www.linkedin.com/in/gauravkhadka/)
 - [YouTube](https://www.youtube.com/@gauravkhadka)
+- [GitHub](https://github.com/purplecui)
 
 
 >  “I am a forest, and a night of dark trees: but he who is not afraid of my darkness, will find banks full of roses under my cypresses.”

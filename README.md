@@ -1,18 +1,27 @@
-# Quartz v4
+# 🍁 G-WRITES — My Personal Digital Garden
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Welcome to **G-WRITES**, my personal blog and digital garden powered by [Quartz](https://github.com/jackyzha0/quartz).  
+This space hosts my thoughts, notes, writings, and experiments—collected and refined over time.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+📍 Visit the blog at: [purplecui.github.io](https://purplecui.github.io)
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+---
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## 📚 What You'll Find
 
-## Sponsors
+- 💡 Essays and reflections on tech, philosophy, and learning
+- 🔧 Technical notes and walkthroughs
+- 🧠 Ideas-in-progress and personal learnings
+- 🪴 A growing knowledge base 
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+---
+
+## ⚙️ Built With
+
+This site is built using:
+- [Quartz](https://github.com/jackyzha0/quartz) – a fast, modern, Obsidian-compatible static site generator
+- [Obsidian](https://obsidian.md) – for local writing and note organization
+- [TypeScript](https://www.typescriptlang.org/) – for config and component customization
+- Deployed via GitHub Pages
+
+---
