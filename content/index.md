@@ -18,6 +18,8 @@ Well, everything(shakes head:horizontal) here is about me hehe. I believe that t
 
 > "Clarity of direction matters as much as the consistency and focus you invest daily. And writing is the best tool to correct your aim."
 
+## Socials
+
 - [Instagram](https://www.instagram.com/gaurav.khd/)
 - [Facebook](https://www.facebook.com/gaurav.khadka.58/)
 - [LinkedIn](https://www.linkedin.com/in/gauravkhadka/)
