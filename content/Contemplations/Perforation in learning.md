@@ -3,8 +3,7 @@ title: Perforation in learning
 draft: false
 tags:
 ---
- 
-
+March, 2025
 
 The notion is people build their ideas on predetermined chain of thoughts whatever small it might be. Maybe the way they see the world is different but there is some quantity of familiarity that every individual finds when he begins to think or lives in the world. The individual copies the mechanisms on doing certain things: washing hands, flushing, buying daily necessities, etc. --something that is common patterns of functioning person. They learn from something minuscule and build it onto complex web. From learning whatever there is that they perceive, they first get used on them and after enough observation they begin to infuse their identity or rather uniqueness going onward. Now comes the choice, choices that is unique to the individual like what brand of tissue to buy, their favorite food, hand-wash they like and other similar things. First learning the common case scenarios, then referencing them and adding your touch to it i.e, search of identity. And finally keeping on doing that to find a breakthrough--emotionally that would be satisfaction. But the breakthrough or the threshold level may come in many state. There are many things that has affected this pattern on conscious species; difference is that we humans can learn complex things and our established chain of knowledge is already vast and other species not much and not passable to descendants like we as a civilization do. And difference within our species among the great learners and learners is just that great learners only come to derivation/conclusion of their uniqueness only after consuming/referencing vaster quantity of that chain of knowledge(could be after longer time or faster interpretations). 
 
