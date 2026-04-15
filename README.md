@@ -7,16 +7,16 @@ This space hosts my thoughts, notes, writings, and experiments—collected and r
 
 ---
 
-## 📚 What You'll Find
+## What You'll Find
 
-- 💡 Essays and reflections on tech, philosophy, and learning
-- 🔧 Technical notes and walkthroughs
-- 🧠 Ideas-in-progress and personal learnings
-- 🪴 A growing knowledge base 
+- Essays and reflections on tech, philosophy, and learning
+- Technical notes and walkthroughs
+- Ideas-in-progress and personal learnings
+- A growing knowledge base 
 
 ---
 
-## ⚙️ Built With
+## Built With
 
 This site is built using:
 - [Quartz](https://github.com/jackyzha0/quartz) – a fast, modern, Obsidian-compatible static site generator
